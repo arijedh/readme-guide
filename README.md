@@ -1,10 +1,6 @@
 # readme-guide
 
-
-
 # CampConnect
-
-## c'est un élément h2
 
 ## Description
 
